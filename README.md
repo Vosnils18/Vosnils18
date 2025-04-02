@@ -18,7 +18,6 @@ As a **Data Engineer** and **Linux Aficionado**, I wield the Force to architect 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Holocron%20Keeper-blue?logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Imperial%20Customizer-yellow?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Container%20Commander-blue?logo=docker&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-4F4F4F?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
