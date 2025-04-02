@@ -41,8 +41,8 @@ As a **Data Engineer** and **Linux Aficionado**, I wield the Force to architect 
 
 ### 🎮 Gaming Profile
 
-![Steam Profile](https://img.shields.io/badge/Steam-Profile-blue?logo=steam&logoColor=white)
-![Currently Playing](https://img.shields.io/badge/Currently%20Playing-Jedi%20Fallen%20Order-blue)
+[![Steam Profile](https://img.shields.io/badge/Steam-Profile-blue?logo=steam&logoColor=white)](https://steamcommunity.com/id/Enormoussoup985/)
+[![Currently Playing](https://img.shields.io/badge/Currently%20Playing-Red%Dead%20Redemption%202)](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
 
 > *\"The Force is strong with this one.\"* — Darth Vader
 
