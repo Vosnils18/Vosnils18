@@ -1,37 +1,51 @@
-## 🌌 A Long Time Ago in a Terminal Far, Far Away...
+# 🌌 A Long Time Ago in a Terminal Far, Far Away...
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourPersonalGitHubUsername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Vosnils18&color=brightgreen)
 ![Jedi Rank](https://img.shields.io/badge/Jedi%20Rank-Master-blue)
-![Sith Defeated](https://img.shields.io/badge/Sith%20Defeated-42-red)
 
 ### Greetings, Traveler! I'm Nils Vos.
 
-As a **Data Engineer** and **Linux Aficionado**, I wield the Force to architect data pipelines and automate the galaxy's most challenging tasks. When I'm not orchestrating data symphonies, you'll find me navigating hyperspace in the gaming universe or customizing my Linux system to imperial standards.
+**Software & Data Engineer** wielding the Force to architect data pipelines and automate building management systems. Currently stationed at **FOX BMS**, developing solutions with Tridium Niagara while mastering Applied Data Science & AI at BUAS.
 
-> *\"The data must flow.\"* — Bene Gesserit (paraphrased)
-
----
-
-### 🛠️ My Arsenal
-
-![Python](https://img.shields.io/badge/Python-Jedi%20Master%20Level-blue?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Holocron%20Keeper-blue?logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Imperial%20Customizer-yellow?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Container%20Commander-blue?logo=docker&logoColor=white)
+> *"The data must flow."* — Bene Gesserit (paraphrased)
 
 ---
 
-### 🚀 Current Missions
+## 🛠️ My Arsenal
 
-- **Data Engineering & Automation:** Bringing order to the chaotic galaxy of data.
-- **Generative AI R&D:** Experimenting with AI models to create structured content & visuals.
-- **Niagara Data Pipeline:** Extracting building automation data into SQL databases for advanced analytics.
+**Core Technologies**
+- ![Python](https://img.shields.io/badge/Python-Jedi%20Master%20Level-blue?logo=python&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Holocron%20Keeper-blue?logo=postgresql&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-Imperial%20Customizer-yellow?logo=linux&logoColor=black)
+- ![Docker](https://img.shields.io/badge/Docker-Container%20Commander-blue?logo=docker&logoColor=white)
 
-> *\"Your focus determines your reality.\"* — Qui-Gon Jinn
+**Special Abilities**
+- Tridium Niagara 4.14 (Building Automation)
+- rFMS Telematics Integration
+- U-Net Architecture for ML
+- Industrial Control Systems Security
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Current Missions
+
+### 🚛 DAF Truck Predictive Maintenance
+Integrating heterogeneous data sources (SQL, PDFs, Excel, RDW registration data, rFMS telematics) using CRISP-DM methodology to bring order to the chaotic galaxy of fleet maintenance data.
+
+### 🏢 Niagara Data Pipeline
+Extracting building automation data from ISMA modules and IO blocks into SQL databases for advanced analytics and imperial-level efficiency.
+
+### 🌱 PlantSeg Agricultural AI
+U-Net based segmentation model developed at NPEC, bringing precision agriculture to the outer rim territories.
+
+### 🛡️ Cybersecurity Training
+Pursuing CompTIA Security+ certification (April 2026 target) while completing TryHackMe challenges to defend against the dark side of cyber threats.
+
+> *"Your focus determines your reality."* — Qui-Gon Jinn
+
+---
+
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vosnils18&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vosnils18&layout=compact&theme=dark)
@@ -39,19 +53,12 @@ As a **Data Engineer** and **Linux Aficionado**, I wield the Force to architect 
 
 ---
 
-### 🎮 Gaming Profile
-
-[![Steam Profile](https://img.shields.io/badge/Steam-Profile-blue?logo=steam&logoColor=white)](https://steamcommunity.com/id/Enormoussoup985/)
-[![Currently Playing](https://img.shields.io/badge/Currently%20Playing-Red%Dead%20Redemption%202)](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
-
-> *\"The Force is strong with this one.\"* — Darth Vader
-
----
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-vos-21b182208/)
 
 ---
 
-May the data be with you, always. 🚀
+*May the data be with you, always.* 🚀
+
+> *"The Force is strong with this one."* — Darth Vader
