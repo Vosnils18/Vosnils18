@@ -21,9 +21,9 @@
 
 **Special Abilities**
 - Tridium Niagara 4.14 (Building Automation)
-- rFMS Telematics Integration
-- U-Net Architecture for ML
-- Industrial Control Systems Security
+- Data Engineering
+- Machine Learning/Deep Learning
+- Industrial Control Systems
 
 ---
 
